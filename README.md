@@ -1,1 +1,1 @@
-# Panels
+# PANEL-HYPED
