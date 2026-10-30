@@ -48,14 +48,14 @@ from aiogram.exceptions import TelegramBadRequest
 from aiogram.client.default import DefaultBotProperties
 
 # ── Конфигурация ─────────────────────────────────────────────────────────────
-BOT_TOKEN   = '8728808953:AAHxat-x66xCRcqEA8C8r2goUjh8xc_jvFE'
-OWNERS      = [8893709762]
+BOT_TOKEN   = '9062144288:AAGVBnBRLSGlpfq6FUo1JCxmNN1BMSWLlFY'
+OWNERS      = [8893381690]
 DB_NAME     = 'bot_database.db'
 PAYOUT_CHAT_ID  = -8047603654
-CHANNEL_ID      = -1003914054279
+CHANNEL_ID      = -1004465059218
 PAYOUT_TOPIC_ID = 9
 PAYOUT_PERCENTAGE = 0.7
-CHANNEL_USERNAME  = 'ChapmanTiams'
+CHANNEL_USERNAME  = 'BenzoTeamTT'
 BANNER_PATH = 'banner.png'
 
 WORK_TYPES = {
